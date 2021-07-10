@@ -1,0 +1,25 @@
+div{
+    width: 120px;
+    height:120px;
+    flex-wrap: wrap;
+    display: flex;
+    
+}
+
+
+.sea {
+    background-color: blue;
+    width: 12px;
+    height: 12px;
+}
+
+.land {
+    background-color: rgb(241, 128, 46);
+    width: 12px;
+    height: 12px;
+}
+
+#fish {background-color: rgb(238, 216, 201);
+    width: 12px;
+    height: 12px;
+}
