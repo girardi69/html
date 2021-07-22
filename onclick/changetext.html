@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+  .grid {
+    height:60px;
+    width:60px;
+    flex-wrap: wrap;
+
+    display: flex;
+  }
+  .p1 {
+    width: 20px;
+    height: 20px;
+    background-color: burlywood;
+  }
+</style>
+</head>
+<body>
+  <div class="grid">  
+    <div class="p1" onclick = "changeText(this)"></div>
+    <div class="p1" onclick = "changeText(this)"></div>
+    <div class="p1" onclick = "changeText(this)"></div>
+    <div class="p1" onclick = "changeText(this)"></div>
+    <div class="p1" onclick = "changeText(this)"></div>
+    <div class="p1" onclick = "changeText(this)"></div>
+    <div class="p1" onclick = "changeText(this)"></div>
+    <div class="p1" onclick = "changeText(this)"></div>
+    <div class="p1" onclick = "changeText(this)"></div>
+    <div class="p1" onclick = "changeText(this)"></div>
+    <div class="p1" onclick = "changeText(this)"></div>
+    <div class="p1" onclick = "changeText(this)"></div>
+  </div>
+
+  
+<script>
+  function changeText(id) {
+    id.innerHTML = "O"
+  }
+</script>  
+</body>
+</html>
