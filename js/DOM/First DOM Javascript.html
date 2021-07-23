@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+
+<!-- This is the first exercise to understand the DOM.
+The DOM creates a model of the current HTML page.
+The highest element in the Hyerarchy is  document, who represents the entire page.
+The child elements represent each single element in the page.
+1.a In this first esercise we select the entire Body.
+1.b Then we create a button element to render more clear how to change the background
+2   Then we change the file and we select only a single div element
+-->
+
+
+<body>
+
+<h1>Hello World!</h1>
+
+<div onclick="myFunction()">Set background</div>
+
+<script>
+function myFunction() {
+  document.body.style.background = "#555";
+}
+</script>
+
+</body>
+</html>
+
+  
+
+
+
+<!--
+<head>
+    <style>
+        .grid {
+            height: 66px;
+            width: 66px;
+            display:flex;
+            flex-wrap: wrap;
+            border-style: solid 1px;
+
+        }
+        .grid div {
+            height: 20px;
+            width: 20px;
+            background-color: yellow;
+            border: solid 1px;
+        }
+    </style>
+</head>
+
+<body>
+
+<h1>select a single element</h1>
+<button>Please click the central square</button>
+<br>
+
+<div class="grid">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div id="central" onclick="myFunction()"></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+</div>
+
+<script>
+function myFunction() {
+  document.getElementById('central').innerHTML = "O";
+}
+</script>
+
+</body>
+</html>
+
+-->
