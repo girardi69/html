@@ -8,5 +8,9 @@ Building sites with HTML, CSS and Javascript: getting started
 
 
 ‘‘‘
-function andrea() {}
+function andrea() {} obtained with opt-3
 ‘‘‘
+
+```
+function {}
+´´´
