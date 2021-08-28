@@ -11,18 +11,19 @@
 8. Git Essential Training: The Basics
 
 ## Learning PATH: Javascript Essential Training
-1. Learning the Javascript Language
-2. Javascript Essential Training
-3. Learning ECMAScript 6+
-4. Javascript: Scope
-5. Javascript: Prototypes
-6. Javascript: Closures
-7. Javascript: Classes
-8. Learn App building with Vanilla Javascript
-9. HTML Essential Training
-10. Developing for Web Performance
-11. Javascript and JSON: Integration Techniques
-12. Vanilla Javascript: Ajax and Fetch
+1. Learning the Javascript Language  
+2. ```Completed 20210827 - Good for First Teaching```
+3. Javascript Essential Training
+4. Learning ECMAScript 6+
+5. Javascript: Scope
+6. Javascript: Prototypes
+7. Javascript: Closures
+8. Javascript: Classes
+9. Learn App building with Vanilla Javascript
+10. HTML Essential Training
+11. Developing for Web Performance
+12. Javascript and JSON: Integration Techniques
+13. Vanilla Javascript: Ajax and Fetch
 
 ## Learning PATH: Become a Vanilla Javascript Developer
 1. Learning App Building with Vanilla JavaScript
