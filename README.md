@@ -30,7 +30,8 @@
 3. Learning Functional Programming with Javascript ES6+  
 ```
 - Object Oriented to Functional Approach  
-- Functions as First-Class Functions```
+- Functions as First-Class Functions
+```
 5. Vanilla JavaScript: Ajax and Fetch
 6. Processing and Interchanging JSON Data
 7. Javascript: Modern Browser APIs
