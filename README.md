@@ -25,6 +25,11 @@
 11. Javascript and JSON: Integration Techniques
 12. Vanilla Javascript: Ajax and Fetch
 
+### BONUS 
+1. JQuery Essential Training
+2. Learning JQuery UI
+
+
 ## Learning PATH: Become a Vanilla Javascript Developer
 1. Learning App Building with Vanilla JavaScript
 2. Web Portfolio Projects: Binding and Propagation  
@@ -50,17 +55,3 @@
 ### Learning PATH: Improve your Javascript Language skills
 Advanced
 # Learning Functional programming with Javascript ES6+
-
-
-## test html
-Building sites with HTML, CSS and Javascript: getting started
-- Working with CSS --> Browser support caniuse.com/#feat=flexbox
-
-
-```
-function {} obtained with opt-9
-```
-  
-```
-this is a test
-```
