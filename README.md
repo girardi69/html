@@ -28,11 +28,12 @@
 1. Learning App Building with Vanilla JavaScript
 2. Web Portfolio Projects: Binding and Propagation
 3. Learning Functional Programming with Javascript ES6+
-4. Vanilla JavaScript: Ajax and Fetch
-5. Processing and Interchanging JSON Data
-6. Javascript: Modern Browser APIs
-7. Vanilla Javascript: Service Workers
-8. Vanilla Javascript: Progressive Web Applications
+ - Object Oriented to Functional Approach
+5. Vanilla JavaScript: Ajax and Fetch
+6. Processing and Interchanging JSON Data
+7. Javascript: Modern Browser APIs
+8. Vanilla Javascript: Service Workers
+9. Vanilla Javascript: Progressive Web Applications
 
 
 
