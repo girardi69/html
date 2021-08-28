@@ -26,8 +26,8 @@
 
 ## Learning PATH: Become a Vanilla Javascript Developer
 1. Learning App Building with Vanilla JavaScript
-2. Web Portfolio Projects: Binding and Propagation
-3. Learning Functional Programming with Javascript ES6+
+2. Web Portfolio Projects: Binding and Propagation  
+3. Learning Functional Programming with Javascript ES6+  
 ```  - Object Oriented to Functional Approach```
 5. Vanilla JavaScript: Ajax and Fetch
 6. Processing and Interchanging JSON Data
